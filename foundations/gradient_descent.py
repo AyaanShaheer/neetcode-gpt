@@ -7,4 +7,3 @@ class Solution:
             x = x - learning_rate*(gradient)
         
         return round(x, 5)
-
